@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+   /* background-image: url(/Kodluyoruz/img/photo-1477959858617-67f85cf4f1df\(1\).png); */
+    
+}
+ .section-card {
+   
+    position:fixed;
+    width: 100%; 
+    height: 100%;
+    width: 1800px;
+    height: 563px;
+    /* top: 400px;   */
+} 
+.roww {
+    position: fixed;
+width: 1000px;
+height: 563px;
+} 
+
+.bg-primary {
+    color: #fff;
+}
+
+/* img:hover {
+    background-color:#5090f0;;
+    
+} */
+
+.jumbotron {
+    background-color: #E9ECEF;
+    margin-top: 80px;
+}
+
+footer {
+    /* background-color: #E9ECEF; */
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;   
+    color: #fff;
+}
+
+/* .card , .card-img-top {
+    background-color: #E9ECEF;
+} */
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    background-color: #f1f1f1;
+    height: 600px;
+  }
+  
+  .card1 {
+    font-size:14.5px;
+  }
+
+.card2 {
+    font-size: 15.37px;
+}
+.card3 {
+    font-size: 15.88px;
+}
+.card4 {
+    /* font-size: 11.69px; */
+    font-size: 14px;
+}
+
+nav {
+    background-color: #E9ECEF;
+}
+
+footer {
+    background-color: #E9ECEF;
+}
+
